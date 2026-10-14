@@ -1,591 +1,355 @@
-vless://43080f14-bc62-4c51-bb90-7e6ed77efaf2@3.88.139.140:24715?type=tcp&encryption=none&security=none#normal-United 6287
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.201.65:500?security=none&type=tcp#normal-Australia 3045
-vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#normal-Germany 893
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.50.21:500?security=none&type=tcp#normal-Netherlands 186
-vless://9c4c682d-c4f2-4563-9283-6027e491366c@16.59.239.209:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#normal-United States 1430
-vless://40992c2a-513e-4837-9594-23411fd42afd@168.144.165.61:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 645
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.140.170:500?security=none&type=tcp#normal-Germany 317
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.129.187:500?security=none&type=tcp#normal-Germany 4081
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.223.14.197:500?security=none&type=tcp#normal-Netherlands 3267
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.144.101:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 1824
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.146.188:500?security=none&type=tcp#normal-Australia 5458
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.27.229:500?security=none&type=tcp#normal-Australia 1353
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.22.122.119:500?security=none&type=tcp#normal-United Kingdom 756
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.216.136:500?security=none&type=tcp#normal-Germany 2836
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@146.190.225.174:500?security=none&type=tcp#normal-Netherlands 5210
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.85.165:500?security=none&type=tcp#normal-Netherlands 9886
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.192.165:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 105
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.208.142:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 5823
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.102.11:500?security=none&type=tcp#normal-Netherlands 9658
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.207.228:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#normal-Australia 9666
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.164.44:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#normal-United Kingdom 1927
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.177.33:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 6501
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.99.215.68:500?security=none&type=tcp#normal-Netherlands 4013
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.166.97:500?security=none&type=tcp#normal-United Kingdom 6944
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.60.69:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 1559
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.203.52:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 6931
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.42.77:500?security=none&type=tcp#normal-Netherlands 2568
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.71.139.42:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 4089
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.3.126:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 7088
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.203.52:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7856
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.144.38:500?security=none&type=tcp#normal-Australia 646
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.174.66:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 7208
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.122.13:500?security=none&type=tcp#normal-United States 6764
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.210.60:500?security=none&type=tcp#normal-Germany 4576
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.9.177:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#normal-United States 7049
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.84.217:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#normal-Australia 5534
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.24.179:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 2695
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.201.118:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 3628
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.215.68:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#normal-Netherlands 3207
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.87.86:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#normal-Netherlands 1619
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.52.80:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-Netherlands 4349
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.215.68:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7910
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.201.215:500?security=none&type=tcp#normal-Germany 6576
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.241.49:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#normal-Netherlands 7466
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.61.61:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 2953
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.116.222:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 5101
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.40.70:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-United Kingdom 7556
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.7.186:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 7379
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.85.165:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 2486
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.203.171:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#normal-Netherlands 2596
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.254.170:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 2719
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.252.64:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 7671
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.16.203:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#normal-Australia 7056
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.205.133:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#normal-Netherlands 1485
-vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.35.167:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 919
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.92.154.159:500?security=none&type=tcp#normal-Netherlands 9806
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.209.86.150:500?security=none&type=tcp#normal-Netherlands 1438
-vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.131.0:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#normal-United Kingdom 4422
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@206.189.14.37:500?security=none&type=tcp#normal-Netherlands 6209
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.166.216:500?security=none&type=tcp#normal-Germany 6574
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.94.63:500?security=none&type=tcp#normal-Australia 7025
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.99.93:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 5961
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.7.186:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 3282
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@142.93.170.142:500?security=none&type=tcp#normal-Germany 3773
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@64.226.101.76:500?security=none&type=tcp#normal-Germany 8940
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.154.147:500?security=none&type=tcp#normal-Australia 5898
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.99.233.95:500?security=none&type=tcp#normal-United States 5965
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.101.143:500?security=none&type=tcp#normal-Germany 5249
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.237.24:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 5883
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.175.195:500?security=none&type=tcp#normal-United Kingdom 4516
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.54.23:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 2913
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.168.140:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#normal-Australia 4122
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.166.216:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 3216
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.195.139:500?security=none&type=tcp#normal-Netherlands 5204
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.164.44:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#normal-United Kingdom 9667
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.3.126:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 7325
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.10.224:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-Germany 2843
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.254.170:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#normal-Netherlands 9131
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.205.133:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 6065
-vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.195.19:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 5968
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.48.156:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 641
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.146.188:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-Australia 8082
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.86.86:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 7595
-vless://40992c2a-513e-4837-9594-23411fd42afd@144.126.200.184:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 4090
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.102.11:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#normal-Netherlands 9225
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.97.138.175:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 4951
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.188.224:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Australia 9804
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.122.55.33:500?security=none&type=tcp#normal-Netherlands 6428
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.54.239:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 645
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.7.186:500?security=none&type=tcp#normal-United Kingdom 6094
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.52.80:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 6067
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.147.36:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-Australia 977
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@206.189.25.87:500?security=none&type=tcp#normal-United Kingdom 1966
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.171.107:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 7461
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.195.139:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7492
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.230.101.120:500?security=none&type=tcp#normal-Germany 4907
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.183.212:500?security=none&type=tcp#normal-Germany 7011
-vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.170.142:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-Germany 3175
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.99.209.164:500?security=none&type=tcp#normal-Netherlands 4539
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.72.48:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-United Kingdom 6736
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.248.211:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Netherlands 6432
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.47.252:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 3837
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.201.118:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 9342
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.90.239.12:500?security=none&type=tcp#normal-Germany 4863
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.87.133:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#normal-Australia 2943
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.142.188:500?security=none&type=tcp#normal-Germany 7554
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.22.23.171:500?security=none&type=tcp#normal-Germany 5846
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.37.24:500?security=none&type=tcp#normal-Netherlands 7419
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.201.118:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-Netherlands 3397
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.215.119:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 5091
-vless://40992c2a-513e-4837-9594-23411fd42afd@144.126.229.9:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 5941
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.71.139.42:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 6197
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.122.60.117:500?security=none&type=tcp#normal-Netherlands 9433
-vless://40992c2a-513e-4837-9594-23411fd42afd@168.144.161.111:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 7777
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.188.7:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 8993
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.196.31:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 4801
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.147.36:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-Australia 3744
-vless://9c4c682d-c4f2-4563-9283-6027e491366c@13.49.62.96:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#normal-Sweden 1713
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.23.171:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 2254
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.42.55:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 5852
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.14.173:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 9984
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.146.188:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 6102
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.193.180:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Australia 2645
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.144.38:500?security=none&type=tcp#normal-Germany 433
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.46.62:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 8981
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.47.55:500?security=none&type=tcp#normal-Netherlands 6519
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@138.68.94.185:500?security=none&type=tcp#normal-Germany 1787
-vless://40992c2a-513e-4837-9594-23411fd42afd@64.226.101.76:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Germany 680
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.71.9.13:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 1793
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.203.171:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 9631
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.68.144:500?security=none&type=tcp#normal-Netherlands 8055
-vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.54.211:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 9309
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.188.224:500?security=none&type=tcp#normal-Australia 2874
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.213.189:500?security=none&type=tcp#normal-Germany 1183
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.210.60:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-Germany 2570
-vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.194.204:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 9224
-vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.122.13:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 101
-vless://40992c2a-513e-4837-9594-23411fd42afd@168.144.162.220:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 5308
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.174.66:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Australia 5382
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.42.77:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-Netherlands 9955
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.233.95:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 3313
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.146.187:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 1095
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.147.198:500?security=none&type=tcp#normal-Germany 2207
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.6.224:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Netherlands 1184
-vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.94.185:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 756
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.232.72.26:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 5601
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.80.139:500?security=none&type=tcp#normal-Australia 256
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.32.236:500?security=none&type=tcp#normal-Netherlands 9838
-vless://9c4c682d-c4f2-4563-9283-6027e491366c@3.151.15.72:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#normal-United States 3446
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.213.189:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 2939
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.201.215:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Germany 8949
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.227.225.116:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#normal-United Kingdom 3547
-vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.170.142:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Germany 6134
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.87.133:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 6153
-vless://40992c2a-513e-4837-9594-23411fd42afd@64.225.66.27:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 2795
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.176.221:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 8712
-vless://40992c2a-513e-4837-9594-23411fd42afd@143.110.170.138:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 2222
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.190.146:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 7073
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.63.138:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 9585
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.42.77:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 3043
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.10.224:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 1062
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@143.198.183.250:500?security=none&type=tcp#normal-United States 3989
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.247.193:500?security=none&type=tcp#normal-Germany 7483
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.147.36:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 2388
-vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.239.12:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 1860
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.14.173:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#normal-Netherlands 7254
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.127.234:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 6915
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.61.61:500?security=none&type=tcp#normal-United Kingdom 6712
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.20.191:500?security=none&type=tcp#normal-Netherlands 5713
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.46.62:500?security=none&type=tcp#normal-Germany 4480
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.62.165:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 4469
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.212.39:500?security=none&type=tcp#normal-Germany 5242
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.216.136:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-Germany 8082
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.146.188:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Australia 9099
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.209.240.99:500?security=none&type=tcp#normal-Germany 6795
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.0.165:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 6841
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.60.117:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Netherlands 7698
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.147.198:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Germany 8345
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.150.17:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Australia 6797
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.20.191:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7313
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.170.179:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 1827
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.84.217:500?security=none&type=tcp#normal-Australia 4301
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.47.252:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#normal-United Kingdom 4059
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.56.219:500?security=none&type=tcp#normal-United Kingdom 296
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.147.185:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 4795
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.71.63.235:500?security=none&type=tcp#normal-Germany 8203
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.63.138:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-United Kingdom 1683
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.50.21:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 8397
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.169.53:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#normal-Australia 8581
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.41.167:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-United Kingdom 3942
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.71.139.42:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-United Kingdom 6310
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.250.236:500?security=none&type=tcp#normal-Netherlands 7648
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.48.156:500?security=none&type=tcp#normal-United Kingdom 4281
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.71.139.42:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 1531
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.150.17:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#normal-Australia 3814
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.54.239:500?security=none&type=tcp#normal-United Kingdom 1027
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.203.171:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-Netherlands 3662
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.201.65:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#normal-Australia 5022
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.0.165:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-Germany 4241
-vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.197.139:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#normal-United States 6837
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.174.66:500?security=none&type=tcp#normal-Australia 792
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.232.96.168:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 1928
-vless://40992c2a-513e-4837-9594-23411fd42afd@168.144.161.111:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-Australia 6932
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.154.46:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 6951
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.140.170:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#normal-Germany 2501
-vless://40992c2a-513e-4837-9594-23411fd42afd@143.198.183.250:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#normal-United States 3758
-vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.182.87:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 9830
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.55.160:500?security=none&type=tcp#normal-United Kingdom 6894
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.33.108:500?security=none&type=tcp#normal-Germany 9629
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.5.131:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 9051
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.147.198:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 7312
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.24.179:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 83
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.116.222:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 1890
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.94.63:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 1517
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.232.72.26:500?security=none&type=tcp#normal-Germany 7064
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.216.179:500?security=none&type=tcp#normal-Netherlands 6839
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.41.167:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 6787
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.30.180:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 7659
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.37.24:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#normal-Netherlands 9119
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.20.240:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-Australia 7205
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.20.240:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 457
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.248.211:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7894
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.30.181:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 5493
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.97.142.185:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 70
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.3.126:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 2780
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.27.229:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-Australia 6481
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.114.138:500?security=none&type=tcp#normal-Netherlands 7389
-vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.182.87:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 497
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.220.110:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#normal-Germany 904
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.146.187:500?security=none&type=tcp#normal-Germany 1802
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.92.216.50:500?security=none&type=tcp#normal-Netherlands 8631
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@138.68.131.0:500?security=none&type=tcp#normal-United Kingdom 8452
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.97.142.185:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-United Kingdom 4895
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.12.151:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#normal-Germany 5387
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.30.180:500?security=none&type=tcp#normal-Australia 1101
-vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.109.123:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#normal-Germany 9983
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.14.173:500?security=none&type=tcp#normal-Netherlands 7645
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.158.250:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 4949
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.130.252:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 9565
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.208.142:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#normal-Netherlands 4814
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.75.160:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-Netherlands 2276
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.72.48:500?security=none&type=tcp#normal-United Kingdom 523
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.102.11:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 722
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.94.194:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Netherlands 1412
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.124.234:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Germany 2506
-vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.194.204:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 5350
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.92.253.217:500?security=none&type=tcp#normal-Germany 9932
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.23.158:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#normal-Netherlands 3238
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.5.131:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-Germany 9264
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.32.8:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 556
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@144.126.229.9:500?security=none&type=tcp#normal-United Kingdom 9157
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.166.97:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-United Kingdom 5793
-vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.253.217:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 8025
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.72.48:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#normal-United Kingdom 6874
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.238.39:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 4266
-vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.35.167:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#normal-United Kingdom 1995
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@142.93.37.191:500?security=none&type=tcp#normal-United Kingdom 415
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.188.224:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 9108
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.128.40.70:500?security=none&type=tcp#normal-United Kingdom 537
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.60.69:500?security=none&type=tcp#normal-United Kingdom 476
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.33.108:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#normal-Germany 1498
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.154.147:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 5381
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.208.112:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 8910
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.106.12:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Netherlands 221
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.166.255:500?security=none&type=tcp#normal-Australia 2020
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.42.77:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 4839
-vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.165.52:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 3643
-vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.182.87:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#normal-United Kingdom 1091
-vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.34.96:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 5468
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.97.138.175:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#normal-United Kingdom 5053
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.210.167:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 3651
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.71.9.13:500?security=none&type=tcp#normal-Netherlands 1099
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.55.160:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 8790
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.35.18:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-Netherlands 5727
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.86.12:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Netherlands 1005
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.17.225:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 9240
-vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.12.151:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 48
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.238.70:500?security=none&type=tcp#normal-Germany 1131
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.97.142.185:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#normal-United Kingdom 9461
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.47.252:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 8178
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.241.49:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-Netherlands 4820
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.209.164:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#normal-Netherlands 7950
-vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.68.144:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#normal-Netherlands 5903
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.183.34:500?security=none&type=tcp#normal-Germany 5792
-vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.239.100:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-Australia 6404
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.52.80:500?security=none&type=tcp#normal-Netherlands 9062
-vless://9c4c682d-c4f2-4563-9283-6027e491366c@3.135.100.172:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#normal-United States 7241
-vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.195.19:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#normal-Germany 4639
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@64.227.42.123:500?security=none&type=tcp#normal-United Kingdom 5614
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.87.86:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 9057
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.61.61:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 9067
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.154.46:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-Australia 7634
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.142.188:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 8644
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.173.106:500?security=none&type=tcp#normal-Australia 8724
-vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.87.133:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Australia 3102
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.212.39:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 4786
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.140.170:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#normal-Germany 7285
-vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.37.130:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 8991
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.212.39:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#normal-Germany 9762
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.175.72:500?security=none&type=tcp#normal-Australia 1628
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.122.119:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#normal-United Kingdom 5267
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.99.93:500?security=none&type=tcp#normal-Germany 7587
-trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.193.180:500?security=none&type=tcp#normal-Australia 8401
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.173.106:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 7813
-vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.86.12:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 1987
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.245.96:543?encryption=none&type=kcp#AScheck 9
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.225.99.157:543?encryption=none&type=kcp#AScheck 17
-trojan://uqdytfawa9x72g7n@209.97.128.215:643?security=none&type=tcp#AScheck 22
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.32.90:543?encryption=none&type=kcp#AScheck 28
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.170.37:500?security=none&type=tcp#normal-Australia 6985
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.13.82:500?security=none&type=tcp#normal-Netherlands 8863
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@168.144.175.70:500?security=none&type=tcp#normal-Australia 7598
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@68.183.6.202:500?security=none&type=tcp#normal-Netherlands 8925
+vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.26.75:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 728
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.16.46:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 7053
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.160.71:500?security=none&type=tcp#normal-United Kingdom 6747
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@137.184.140.221:500?security=none&type=tcp#normal-United States 863
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.42.142:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 7290
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@206.189.125.145:500?security=none&type=tcp#normal-United Kingdom 9815
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.91.49:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-Australia 5463
+vless://40992c2a-513e-4837-9594-23411fd42afd@198.199.85.237:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 1198
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.179.219:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#normal-Germany 5478
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@142.93.3.156:500?security=none&type=tcp#normal-United States 3095
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.56.215:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 1177
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.223.21:500?security=none&type=tcp#normal-Australia 6435
+vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.243.116:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 2324
+vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.222.251:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-Germany 8041
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.188.224:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-Australia 7849
+vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.40.89:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 1056
+vless://40992c2a-513e-4837-9594-23411fd42afd@143.244.150.233:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#normal-United States 5598
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.94.245:500?security=none&type=tcp#normal-Netherlands 9348
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.30.234:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-United States 3667
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.216.173:500?security=none&type=tcp#normal-Germany 6519
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.201.150:500?security=none&type=tcp#normal-Netherlands 5435
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.140.70:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#normal-United States 4639
+vless://9c4c682d-c4f2-4563-9283-6027e491366c@3.135.100.172:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#normal-United States 2182
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.243.25:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 3621
+vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.231.20:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#normal-United States 7859
+vless://40992c2a-513e-4837-9594-23411fd42afd@204.48.16.55:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 9316
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.178.10:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 6650
+vless://43080f14-bc62-4c51-bb90-7e6ed77efaf2@3.88.139.140:24715?type=tcp&encryption=none&security=none#normal-United 9314
+vless://40992c2a-513e-4837-9594-23411fd42afd@147.182.185.63:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 7436
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@138.68.161.119:500?security=none&type=tcp#normal-United Kingdom 3843
+vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#normal-Germany 9820
+vless://9c4c682d-c4f2-4563-9283-6027e491366c@77.113.104.107:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#normal-United States 7328
+vless://40992c2a-513e-4837-9594-23411fd42afd@207.154.233.71:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 4054
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.18.7:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 1174
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.80.22:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 3263
+vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.50.141:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-United States 6908
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.223.170.128:500?security=none&type=tcp#normal-United States 6266
+vless://40992c2a-513e-4837-9594-23411fd42afd@64.225.67.183:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Netherlands 3696
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.140.70:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 3626
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.188.224:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 583
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.83.233:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 2173
+vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.148.191:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 7172
+vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.161.174:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 1903
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.147.36:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 9789
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.179.219:500?security=none&type=tcp#normal-Germany 6997
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.144.227:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Germany 5521
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.21.252:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 4968
+vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.204.245:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-Netherlands 33
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.230.51.249:500?security=none&type=tcp#normal-United States 6316
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.196.245:500?security=none&type=tcp#normal-Netherlands 3234
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.92.190.207:500?security=none&type=tcp#normal-Germany 7951
+vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.164.108:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 867
+vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.148.153:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-United Kingdom 9086
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.146.6:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#normal-Australia 1028
+vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.122.180:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 5628
+vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.168.27:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 4274
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.154.216:500?security=none&type=tcp#normal-Australia 2715
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.232.159:500?security=none&type=tcp#normal-Australia 2365
+vless://40992c2a-513e-4837-9594-23411fd42afd@168.144.172.211:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 364
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.223.21:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 812
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.168.27:500?security=none&type=tcp#normal-United Kingdom 1782
+vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.151.180:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 6445
+vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.17.222:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 2143
+vless://40992c2a-513e-4837-9594-23411fd42afd@165.232.115.230:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 6237
+vless://40992c2a-513e-4837-9594-23411fd42afd@152.42.130.94:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7458
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.214.79:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 9076
+vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.7.152:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 1801
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.233.120:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7418
+vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.15.36:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 3645
+vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.204.245:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Netherlands 44
+vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.110.15:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 4482
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.146.239:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 787
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.44.40:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 6455
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.176.126:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-United Kingdom 1064
+vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.222.120:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 2297
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.194.43:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 7747
+vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.40.89:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 1632
+vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.216.173:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 3545
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.26.131:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-United Kingdom 6457
+vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.178.136:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 1877
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.86.239:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 4631
+vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.172.75:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 4551
+vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.136.20:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 8014
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.142.110:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 6054
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.155.244:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 9795
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.39.240:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#normal-United Kingdom 5270
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.91.49:500?security=none&type=tcp#normal-Australia 4707
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.99.88.227:500?security=none&type=tcp#normal-United Kingdom 1555
+vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.188.127:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 9376
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.149.219:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-Australia 1679
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.26.77:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 4029
+vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.88.227:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 8970
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.144.227:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 1060
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@138.68.148.153:500?security=none&type=tcp#normal-United Kingdom 3713
+vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.50.230:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#normal-Netherlands 9798
+vless://40992c2a-513e-4837-9594-23411fd42afd@147.182.211.27:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 8147
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.45.53:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 8189
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.125.159:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 6731
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.80.139:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-Australia 5381
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.71.24.225:500?security=none&type=tcp#normal-United States 791
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.230.187.223:500?security=none&type=tcp#normal-United States 5625
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.200.216:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 500
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.128.244.73:500?security=none&type=tcp#normal-Netherlands 2274
+vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.151.40:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 9743
+vless://40992c2a-513e-4837-9594-23411fd42afd@198.199.82.22:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#normal-United States 3748
+vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.8.211:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-Germany 5980
+vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.216.22:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 8336
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.252.120:500?security=none&type=tcp#normal-Netherlands 6457
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.51.249:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 246
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.80.139:500?security=none&type=tcp#normal-Australia 4075
+vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.194.217:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 2450
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.42.84:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 244
+vless://40992c2a-513e-4837-9594-23411fd42afd@204.48.21.105:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 606
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.187.223:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#normal-United States 6163
+vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.140.79:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 1622
+vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.178.136:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 4788
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.162.253:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United Kingdom 457
+vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.14.98:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 8075
+vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.107.215:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 2197
+vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.188.127:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-United Kingdom 6333
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.138.211:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#normal-Australia 5392
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.138.253:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 3374
+vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.15.36:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#normal-Germany 7654
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.146.188:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-Australia 3702
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.138.211:500?security=none&type=tcp#normal-Australia 8199
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.194.43:500?security=none&type=tcp#normal-Germany 1393
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.22.224:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-United States 5509
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.170.37:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#normal-Australia 3841
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.71.133.72:500?security=none&type=tcp#normal-United Kingdom 3533
+vless://9c4c682d-c4f2-4563-9283-6027e491366c@18.117.138.11:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#normal-United States 5464
+vless://40992c2a-513e-4837-9594-23411fd42afd@167.71.39.146:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 6573
+vless://40992c2a-513e-4837-9594-23411fd42afd@143.244.150.233:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#normal-United States 9278
+vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.86.114:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 5369
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.138.211:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 8550
+vless://40992c2a-513e-4837-9594-23411fd42afd@24.199.80.154:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 8016
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.223.168.223:500?security=none&type=tcp#normal-United States 2614
+vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.138.89:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-United States 6834
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@147.182.211.27:500?security=none&type=tcp#normal-United States 1238
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.165.161:500?security=none&type=tcp#normal-Australia 8589
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.188.224:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#normal-Australia 2083
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@170.64.149.152:500?security=none&type=tcp#normal-Australia 4392
+vless://40992c2a-513e-4837-9594-23411fd42afd@68.183.109.239:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#normal-United States 4163
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.175.240:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Australia 300
+vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.78.195:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 7317
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.146.188:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 2119
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.149.219:500?security=none&type=tcp#normal-Australia 7049
+vless://40992c2a-513e-4837-9594-23411fd42afd@68.183.15.110:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 5516
+vless://40992c2a-513e-4837-9594-23411fd42afd@168.144.171.158:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 2378
+vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.128.55:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 5885
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.159.203:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#normal-Australia 1033
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@206.189.26.75:500?security=none&type=tcp#normal-United Kingdom 6079
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.43.11:500?security=none&type=tcp#normal-United Kingdom 1279
+vless://40992c2a-513e-4837-9594-23411fd42afd@198.211.117.176:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 3006
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.80.139:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 6575
+vless://40992c2a-513e-4837-9594-23411fd42afd@167.71.24.225:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-United States 2976
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.71.69.214:500?security=none&type=tcp#normal-Netherlands 8469
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.146.97:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 9058
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.22.224:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#normal-United States 3415
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.90.222.251:500?security=none&type=tcp#normal-Germany 3734
+vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.150.70:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 4415
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.18.7:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#normal-Australia 7450
+vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.140.221:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 9596
+vless://40992c2a-513e-4837-9594-23411fd42afd@159.89.12.3:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 1037
+vless://40992c2a-513e-4837-9594-23411fd42afd@68.183.121.14:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 7952
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.230.208.225:500?security=none&type=tcp#normal-United States 9047
+vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.214.71:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Netherlands 1913
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.147.36:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#normal-Australia 4503
+vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.42.84:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#normal-United Kingdom 5309
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.208.236:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 8646
+vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.232.159:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Australia 2333
+vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.180.44:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 5956
+vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.46.209:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#normal-Netherlands 963
+vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.49.220:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 8605
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@138.68.151.40:500?security=none&type=tcp#normal-United Kingdom 7052
+vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.227.93:59807?security=none&encryption=none&headerType=none&type=kcp#normal-Germany 1131
+vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.5.161:59807?security=none&encryption=none&headerType=none&type=kcp#normal-United States 3017
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.245.134.75:500?security=none&type=tcp#normal-United States 5905
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@152.42.130.94:500?security=none&type=tcp#normal-Netherlands 4675
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@68.183.109.239:500?security=none&type=tcp#normal-United States 6198
+vless://40992c2a-513e-4837-9594-23411fd42afd@201.79.15.36:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#normal-Germany 3210
+vless://40992c2a-513e-4837-9594-23411fd42afd@64.226.78.51:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#normal-Germany 1769
+trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.199.147.36:500?security=none&type=tcp#normal-Australia 3106
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.230.161:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 4
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.79.217:543?encryption=none&type=kcp#AScheck 6
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.65.54.211:543?encryption=none&type=kcp#AScheck 15
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.245.83.254:543?encryption=none&type=kcp#AScheck 29
+trojan://uqdytfawa9x72g7n@46.101.254.201:643?security=none&type=tcp#AScheck 30
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#AScheck 31
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.38.86:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 32
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.233.208:543?encryption=none&type=kcp#AScheck 56
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.168.29:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 59
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.235.254:543?encryption=none&type=kcp#AScheck 65
-trojan://uqdytfawa9x72g7n@167.99.245.96:643?security=none&type=tcp#AScheck 86
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.166.6:543?encryption=none&type=kcp#AScheck 123
-trojan://uqdytfawa9x72g7n@46.101.203.228:643?security=none&type=tcp#AScheck 134
-trojan://uqdytfawa9x72g7n@138.68.151.180:643?security=none&type=tcp#AScheck 141
-trojan://uqdytfawa9x72g7n@206.189.16.11:643?security=none&type=tcp#AScheck 182
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.45.100:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 203
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.233.208:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 235
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.244.250:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 245
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@206.189.2.32:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 246
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.78.105:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 247
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.81.136:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 248
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.36.130:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 249
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@198.199.69.207:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 250
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.136.77:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 251
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.160.72:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 252
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.140.244:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 253
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.225.99.157:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 254
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.254.123:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 255
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.209.252:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 256
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.177.210:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 257
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.169.130:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 258
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.158.96:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 259
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.214.252:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 260
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.71.136.43:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 261
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.90.199.74:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 262
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.94.156:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 263
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.245.82.87:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 264
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.11.149:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 265
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.156.161:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 266
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@24.144.121.172:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 267
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.167.130:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 268
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.41.38:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 269
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.93.193:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 270
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.32.90:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 271
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@206.189.2.32:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 272
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.90.199.74:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 273
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.93.186:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 274
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.108.116:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 275
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.173.131:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 276
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.205.55:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 277
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.172.35.90:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 278
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.230.2.56:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 279
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.88.120:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 280
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.175.235:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 281
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.177.210:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 282
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.11.149:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 283
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.140.244:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 284
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.223.176:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 285
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.225.68.137:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 286
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.4.186:543?encryption=none&type=kcp#AScheck 29
-trojan://uqdytfawa9x72g7n@178.62.233.208:643?security=none&type=tcp#AScheck 41
-trojan://uqdytfawa9x72g7n@144.126.235.254:643?security=none&type=tcp#AScheck 61
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@68.183.8.89:543?encryption=none&type=kcp#AScheck 74
-trojan://uqdytfawa9x72g7n@174.138.11.149:643?security=none&type=tcp#AScheck 87
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.203.228:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 192
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.235.254:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 202
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.48.59:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 225
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.122.91.71:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 226
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.193.199:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 227
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.160.72:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 228
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.73.19:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 229
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.197.188.155:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 230
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.136.77:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 231
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.151.180:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 232
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.173.43:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 233
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.225.99.157:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 234
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.74.163:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 236
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@206.189.16.11:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 237
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.173.131:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 238
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.152.77:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 239
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.122.58.191:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 240
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@68.183.8.89:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 241
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.61.90:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 242
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.5.142:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 243
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.9.233:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 244
-trojan://uqdytfawa9x72g7n@144.126.196.138:643?security=none&type=tcp#AScheck 15
-trojan://uqdytfawa9x72g7n@161.35.32.90:643?security=none&type=tcp#AScheck 27
-trojan://uqdytfawa9x72g7n@46.101.233.245:643?security=none&type=tcp#AScheck 46
-trojan://uqdytfawa9x72g7n@68.183.8.89:643?security=none&type=tcp#AScheck 48
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.225.98.236:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 77
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.151.180:543?encryption=none&type=kcp#AScheck 84
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.71.136.43:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 145
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.233.245:543?encryption=none&type=kcp#AScheck 174
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.214.252:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 205
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.18.121:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 206
-trojan://uqdytfawa9x72g7n@64.225.99.157:643?security=none&type=tcp#AScheck 207
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.97.185.108:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 208
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.108.116:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 209
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.163.44:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 210
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.11.149:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 211
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.41.38:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 212
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.128.150:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 213
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.184.221:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 214
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.178.10:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 215
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.254.123:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 216
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.45.100:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 217
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.148.57:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 218
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.151.180:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 219
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.74.163:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 220
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.139.125:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 221
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.167.170:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 222
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.93.193:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 223
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.99.250:543?encryption=none&type=kcp#AScheck 224
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.11.149:543?encryption=none&type=kcp#AScheck 5
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.81.136:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 53
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.196.138:543?encryption=none&type=kcp#AScheck 83
-trojan://uqdytfawa9x72g7n@178.62.99.250:643?security=none&type=tcp#AScheck 104
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.204.159:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 183
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@198.199.69.207:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 184
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.199.239:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 185
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.99.250:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 186
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.156.161:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 187
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.227.34.121:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 188
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.169.130:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 189
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.48.59:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 190
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.245.82.87:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 191
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.97.185.108:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 193
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.108.116:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 194
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.122.58.191:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 195
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.89.101.0:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 196
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.43.219:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 197
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.1.230:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 198
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.209.72.215:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 199
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.254.123:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 200
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.197.188.155:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 201
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@68.183.36.145:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 204
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.152.94:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 107
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.169.100:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 160
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.219.45:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 161
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.223.241:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 162
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.199.239:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 163
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.36.130:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 164
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.177.210:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 165
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.89.101.0:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 166
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.173.43:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 167
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.175.235:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 168
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.173.94:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 169
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.64.220:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 170
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.4.186:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 171
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.226.61:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 172
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.235.254:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 173
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.1.230:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 175
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.209.235.239:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 176
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.100:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 177
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.193.199:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 178
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.32.90:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 179
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.94.156:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 180
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.196.138:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 181
-trojan://uqdytfawa9x72g7n@188.166.96.192:643?security=none&type=tcp#AScheck 34
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.96.192:543?encryption=none&type=kcp#AScheck 90
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.122.91.71:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 135
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.69.225:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 136
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.5.142:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 137
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.177.210:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 138
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.233.245:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 139
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.172.231:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 140
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.152.94:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 142
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.128.150:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 143
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.160.72:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 144
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.223.176:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 146
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.226.61:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 147
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.139.173:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 148
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.173.94:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 149
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.227.34.121:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 150
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.205.55:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 151
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.232.104:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 152
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.38.86:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 153
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.45.100:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 154
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.173.43:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 155
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.252.182:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 156
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.167.130:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 157
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.244.250:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 158
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.78.105:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 159
-trojan://uqdytfawa9x72g7n@143.110.167.130:643?security=none&type=tcp#AScheck 10
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.167.130:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 67
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.71.136.43:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 113
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.43.219:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 114
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.88.120:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 115
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.73.19:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 116
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.140.244:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 117
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@68.183.44.123:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 118
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.172.35.90:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 119
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.0.62:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 120
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.136.77:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 121
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.209.235.239:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 122
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.196.138:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 124
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.169.198:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 125
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.225.99.157:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 126
-trojan://uqdytfawa9x72g7n@201.79.4.186:643?security=none&type=tcp#AScheck 127
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.139.173:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 128
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.152.77:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 129
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@68.183.37.143:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 130
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.93.193:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 131
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.254.123:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 132
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.151.180:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 133
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.245.82.87:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 81
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.97.185.108:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 88
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.100:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 89
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.158.96:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 91
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.209.252:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 92
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@68.183.38.224:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 93
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.43.219:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 94
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.170.188:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 95
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.64.220:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 96
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.172.35.90:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 97
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.197.188.155:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 98
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.225.68.137:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 99
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.45.100:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 100
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@24.144.121.172:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 101
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.158.202:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 102
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.160.72:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 103
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.9.233:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 105
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.32.90:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 106
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.203.41:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 108
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.172.231:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 109
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.224.130:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 110
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.235.254:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 111
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.36.130:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 112
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@206.189.16.11:543?encryption=none&type=kcp#AScheck 21
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.93.193:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 60
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.166.6:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 62
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.227.34.121:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 63
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.158.202:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 64
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@206.189.2.32:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 66
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.167.130:543?encryption=none&type=kcp#AScheck 68
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.9.233:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 69
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.203.41:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 70
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.96.192:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 71
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.209.72.215:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 72
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.167.170:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 73
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.78.105:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 75
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.103.156:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 76
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.94.156:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 78
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.128.150:443?encryption=none&headerType=http&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=none&type=tcp#AScheck 79
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.203.228:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 80
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.163.44:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 82
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@68.183.36.145:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 85
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.233.211:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 33
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.223.241:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 35
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.97.128.215:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 36
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.172.231:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 37
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.184.221:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 38
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.4.186:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 39
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.5.142:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 40
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.175.235:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 42
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.158.96:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 43
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.43.219:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 44
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.93.186:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 45
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@206.189.16.11:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 47
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.94.156:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 49
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.204.159:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 50
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.222.65:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 51
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.158.202:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 52
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.73.19:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 54
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.209.235.239:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 55
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.61.90:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 57
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.152.94:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 58
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.41.38:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 1
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.204.159:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 2
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.245.96:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 3
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.175.235:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 4
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.165.112:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 6
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.178.10:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 7
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.152.94:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 8
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.103.156:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 11
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.151.180:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 12
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.172.35.90:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 13
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.99.250:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 14
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.128.150:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 16
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.245.82.87:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 18
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.140.244:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 19
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.90.199.74:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 20
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.196.138:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 23
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.169.100:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 24
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.96.192:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 25
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.236.135:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 26
-vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.73.19:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 30
+trojan://uqdytfawa9x72g7n@170.64.230.161:643?security=none&type=tcp#AScheck 41
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.22.187.33:543?encryption=none&type=kcp#AScheck 59
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.218.181:543?encryption=none&type=kcp#AScheck 75
+trojan://uqdytfawa9x72g7n@134.199.155.43:643?security=none&type=tcp#AScheck 94
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@146.190.72.55:543?encryption=none&type=kcp#AScheck 108
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.223.136.211:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 150
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.146.12:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 151
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@137.184.142.110:543?encryption=none&type=kcp#AScheck 152
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.167.31:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 153
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.152.28:543?encryption=none&type=kcp#AScheck 154
+trojan://uqdytfawa9x72g7n@157.230.7.0:643?security=none&type=tcp#AScheck 155
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.227.125.38:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 156
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.230.161:543?encryption=none&type=kcp#AScheck 157
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.160.173:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 158
+trojan://uqdytfawa9x72g7n@167.99.193.108:643?security=none&type=tcp#AScheck 159
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@144.126.194.15:543?encryption=none&type=kcp#AScheck 160
+trojan://uqdytfawa9x72g7n@167.99.146.12:643?security=none&type=tcp#AScheck 161
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.165.26:543?encryption=none&type=kcp#AScheck 162
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.189.158:543?encryption=none&type=kcp#AScheck 163
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.102.0:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 164
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.104.57:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 165
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.22.64.78:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 166
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.199.74:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 167
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.22.193.91:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 168
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.209.193.133:543?encryption=none&type=kcp#AScheck 169
+trojan://uqdytfawa9x72g7n@157.230.189.66:643?security=none&type=tcp#AScheck 11
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.221.234:543?encryption=none&type=kcp#AScheck 21
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.50:543?encryption=none&type=kcp#AScheck 22
+trojan://uqdytfawa9x72g7n@188.166.0.164:643?security=none&type=tcp#AScheck 27
+trojan://uqdytfawa9x72g7n@152.42.138.175:643?security=none&type=tcp#AScheck 56
+trojan://uqdytfawa9x72g7n@201.79.15.50:643?security=none&type=tcp#AScheck 83
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.125.226:543?encryption=none&type=kcp#AScheck 85
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@67.205.129.154:543?encryption=none&type=kcp#AScheck 111
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.37.94:543?encryption=none&type=kcp#AScheck 130
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.122.23.33:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 131
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.102.0:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 132
+trojan://uqdytfawa9x72g7n@137.184.142.110:643?security=none&type=tcp#AScheck 133
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.0.164:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 134
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.61.240:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 135
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.254.201:543?encryption=none&type=kcp#AScheck 136
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.50:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 137
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.163.73:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 138
+trojan://uqdytfawa9x72g7n@64.227.125.38:643?security=none&type=tcp#AScheck 139
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.131.20:543?encryption=none&type=kcp#AScheck 140
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.155.43:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 141
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.227.93.199:443?encryption=none&headerType=http&host=yandex.net&path=%2F&security=none&type=tcp#AScheck 142
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.1.223:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 143
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.193.108:543?encryption=none&type=kcp#AScheck 144
+trojan://uqdytfawa9x72g7n@46.101.236.165:643?security=none&type=tcp#AScheck 145
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.223.170.74:543?encryption=none&type=kcp#AScheck 146
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.0.34:543?encryption=none&type=kcp#AScheck 147
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.163.73:543?encryption=none&type=kcp#AScheck 148
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.168.17:543?encryption=none&type=kcp#AScheck 149
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.102.0:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 5
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.33.197:543?encryption=none&type=kcp#AScheck 8
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@143.110.160.173:543?encryption=none&type=kcp#AScheck 40
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@137.184.194.84:543?encryption=none&type=kcp#AScheck 54
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@192.241.149.57:543?encryption=none&type=kcp#AScheck 55
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.175.149:543?encryption=none&type=kcp#AScheck 57
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.0.164:543?encryption=none&type=kcp#AScheck 69
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.254.201:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 107
+trojan://uqdytfawa9x72g7n@134.209.196.36:643?security=none&type=tcp#AScheck 109
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.236.165:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 110
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.29.137:543?encryption=none&type=kcp#AScheck 112
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.206.44:543?encryption=none&type=kcp#AScheck 113
+trojan://uqdytfawa9x72g7n@167.71.1.24:643?security=none&type=tcp#AScheck 114
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@206.189.199.187:543?encryption=none&type=kcp#AScheck 115
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.50:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 116
+trojan://uqdytfawa9x72g7n@134.199.165.92:643?security=none&type=tcp#AScheck 117
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.230.7.0:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 118
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.227.125.38:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 119
+trojan://uqdytfawa9x72g7n@170.64.221.234:643?security=none&type=tcp#AScheck 120
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.254.243:443?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#AScheck 121
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.160.225:543?encryption=none&type=kcp#AScheck 122
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.231.72:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 123
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.122.16.95:543?encryption=none&type=kcp#AScheck 124
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.167.31:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 125
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.1.223:543?encryption=none&type=kcp#AScheck 126
+trojan://uqdytfawa9x72g7n@146.190.237.133:643?security=none&type=tcp#AScheck 127
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.1.223:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 128
+trojan://uqdytfawa9x72g7n@147.182.161.115:643?security=none&type=tcp#AScheck 129
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.168.17:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 43
+trojan://uqdytfawa9x72g7n@201.79.10.130:643?security=none&type=tcp#AScheck 47
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.165.92:543?encryption=none&type=kcp#AScheck 58
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.71.1.24:543?encryption=none&type=kcp#AScheck 76
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@146.190.237.133:543?encryption=none&type=kcp#AScheck 84
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.65.205.202:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 86
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.22.193.33:543?encryption=none&type=kcp#AScheck 87
+trojan://uqdytfawa9x72g7n@46.101.137.167:643?security=none&type=tcp#AScheck 88
+trojan://uqdytfawa9x72g7n@168.144.163.73:643?security=none&type=tcp#AScheck 89
+trojan://uqdytfawa9x72g7n@46.101.254.243:643?security=none&type=tcp#AScheck 90
+trojan://uqdytfawa9x72g7n@201.79.5.118:643?security=none&type=tcp#AScheck 91
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.33.197:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 92
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.206.44:443?encryption=none&headerType=http&host=dns.shecan.ir&path=%2F&security=none&type=tcp#AScheck 93
+trojan://uqdytfawa9x72g7n@165.22.117.162:643?security=none&type=tcp#AScheck 95
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.10.130:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 96
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.192.206:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#AScheck 97
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.165.92:443?encryption=none&headerType=http&host=aparat.com&path=%2F&security=none&type=tcp#AScheck 98
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@146.190.75.175:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 99
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.193.108:443?encryption=none&headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#AScheck 100
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.146.12:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 101
+trojan://uqdytfawa9x72g7n@201.79.1.223:643?security=none&type=tcp#AScheck 102
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.232.88.244:543?encryption=none&type=kcp#AScheck 103
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.223.136.211:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 104
+trojan://uqdytfawa9x72g7n@209.38.102.0:643?security=none&type=tcp#AScheck 105
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.210.50:543?encryption=none&type=kcp#AScheck 106
+trojan://uqdytfawa9x72g7n@104.248.167.31:643?security=none&type=tcp#AScheck 2
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@178.62.231.72:543?encryption=none&type=kcp#AScheck 10
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.95.202:543?encryption=none&type=kcp#AScheck 35
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@207.154.211.116:543?encryption=none&type=kcp#AScheck 48
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.172.148.164:543?encryption=none&type=kcp#AScheck 60
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.146.12:543?encryption=none&type=kcp#AScheck 61
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.5.118:543?encryption=none&type=kcp#AScheck 62
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.37.94:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 63
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.254.201:443?encryption=none&headerType=http&host=digikala.com&path=%2F&security=none&type=tcp#AScheck 64
+trojan://uqdytfawa9x72g7n@165.22.64.78:643?security=none&type=tcp#AScheck 65
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.167.31:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 66
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.38.220.216:543?encryption=none&type=kcp#AScheck 67
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.104.57:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 68
+trojan://uqdytfawa9x72g7n@159.65.205.202:643?security=none&type=tcp#AScheck 70
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.122.23.33:543?encryption=none&type=kcp#AScheck 71
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@146.190.237.133:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 72
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.36.127:543?encryption=none&type=kcp#AScheck 73
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@192.241.149.57:443?encryption=none&headerType=http&host=clarity.ms&path=%2F&security=none&type=tcp#AScheck 74
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@188.166.10.152:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 77
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.16.12:543?encryption=none&type=kcp#AScheck 78
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.22.64.78:543?encryption=none&type=kcp#AScheck 79
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.50:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 80
+trojan://uqdytfawa9x72g7n@209.38.192.206:643?security=none&type=tcp#AScheck 81
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@146.190.75.175:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 82
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@139.59.140.39:543?encryption=none&type=kcp#AScheck 23
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@64.227.30.24:543?encryption=none&type=kcp#AScheck 32
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.84.35:543?encryption=none&type=kcp#AScheck 33
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.22.187.33:443?encryption=none&headerType=http&host=m.swegg.daxaryx.fun&path=%2F&security=none&type=tcp#AScheck 34
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.10.130:543?encryption=none&type=kcp#AScheck 36
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.93.104:543?encryption=none&type=kcp#AScheck 37
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.254.243:543?encryption=none&type=kcp#AScheck 38
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.22.117.162:543?encryption=none&type=kcp#AScheck 39
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.33.197:443?encryption=none&headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#AScheck 42
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.155.43:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 44
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@137.184.142.110:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 45
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.50:443?encryption=none&headerType=http&host=recursive1.dnspro.ir&path=%2F&security=none&type=tcp#AScheck 46
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@67.205.139.202:543?encryption=none&type=kcp#AScheck 49
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.227.93.199:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 50
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@142.93.36.127:443?encryption=none&headerType=http&host=tapr30.ir&path=%2F&security=none&type=tcp#AScheck 51
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.167.31:443?encryption=none&headerType=http&host=free.shecan.ir&path=%2F&security=none&type=tcp#AScheck 52
+trojan://uqdytfawa9x72g7n@159.223.170.74:643?security=none&type=tcp#AScheck 53
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@146.190.75.175:543?encryption=none&type=kcp#AScheck 1
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@146.190.237.133:443?encryption=none&headerType=http&host=safebrowsing.googleapis.com&path=%2F&security=none&type=tcp#AScheck 3
+trojan://uqdytfawa9x72g7n@159.223.136.211:643?security=none&type=tcp#AScheck 7
+trojan://uqdytfawa9x72g7n@142.93.36.127:643?security=none&type=tcp#AScheck 9
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@174.138.37.94:443?encryption=none&headerType=http&host=varzesh3.com&path=%2F&security=none&type=tcp#AScheck 12
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.206.44:443?encryption=none&headerType=http&host=appmetrica.yandex.net&path=%2F&security=none&type=tcp#AScheck 13
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@134.199.165.92:443?encryption=none&headerType=http&host=begzar.ir&path=%2F&security=none&type=tcp#AScheck 14
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.65.205.202:543?encryption=none&type=kcp#AScheck 16
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@137.184.52.75:543?encryption=none&type=kcp#AScheck 17
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@167.99.193.108:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 18
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@201.79.15.50:443?encryption=none&headerType=http&host=shecan.ir&path=%2F&security=none&type=tcp#AScheck 19
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.230.7.0:543?encryption=none&type=kcp#AScheck 20
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.223.1.200:543?encryption=none&type=kcp#AScheck 24
+trojan://uqdytfawa9x72g7n@137.184.194.84:643?security=none&type=tcp#AScheck 25
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.97.135.219:543?encryption=none&type=kcp#AScheck 26
+vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.245.75.1:443?encryption=none&headerType=http&host=dns1.begzar.ir&path=%2F&security=none&type=tcp#AScheck 28
